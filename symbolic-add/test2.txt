@@ -1,0 +1,21 @@
+ ลออ
++
+ สมร
+สมรส
+1
+ร=6
+ABCB
++
+BDCB
+CEAA
+2
+C=7
+A=4
+FIVE
+-
+FOUR
+ ONE
+3
+E=5
+U=6
+O=4
