@@ -1,8 +1,6 @@
 # Puzzle collections
 
-My collection of puzzle solver and game
+My collection of puzzle solvers and games I wrote.
 
-## [river crossing puzzle](./river-crossing)
-https://en.wikipedia.org/wiki/River_crossing_puzzle
-
-## [moving sticks](./stick-segments)
+- [river crossing](./river-crossing)
+- [moving sticks](./stick-segments)
